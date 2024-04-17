@@ -1,3 +1,8 @@
+   GROUP MEMBERS 
+STEPHEN MWENJA SCT222-0293 /2022
+MOSES KILONZI  SCT222-0314 /2022
+
+
 # creating-binary-search-tree
 #include <stdio.h>
 #include <stdlib.h>
